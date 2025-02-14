@@ -1,0 +1,145 @@
+# Archivos y carpetas generados por Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de extensión C (si usas extensiones en C)
+*.so
+
+# Distribución/Empaquetado
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Entornos virtuales (venv, virtualenv, etc.)
+venv/
+ENV/
+env/
+.venv/
+env.bak/
+venv.bak/
+
+# Archivos de PyInstaller
+*.manifest
+*.spec
+
+# Logs de instalador de pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Informes de pruebas unitarias y cobertura
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Archivos de configuración de traducciones
+*.mo
+*.pot
+
+# Archivos específicos de Django (si trabajas con Django)
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Archivos específicos de Flask
+instance/
+.webassets-cache
+
+# Archivos generados por Scrapy
+.scrapy
+
+# Documentación (Sphinx, MkDocs)
+docs/_build/
+site/
+
+# Configuraciones de IDEs y editores
+.vscode/
+.idea/
+
+# Archivos de pyenv
+.python-version
+
+# Archivos de Celery
+celerybeat-schedule.*
+
+# Archivos de IPython/Jupyter
+.ipynb_checkpoints
+profile_default/
+ipython_config.py
+
+# Archivos de dotenv
+.env
+
+# Archivos de Spyder y Rope
+.spyderproject
+.spyproject
+.ropeproject
+
+# Caché de mypy, pytype, pyre y otros checkers
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pytype/
+
+# Debug symbols de Cython
+cython_debug/
+
+# Archivos y datos de Machine Learning
+
+## Archivos de datos (ajusta según lo que quieras versionar o no)
+*.csv
+*.tsv
+*.dat
+*.data
+*.npy
+*.npz
+*.h5
+*.hdf5
+
+## Modelos y pesos (PyTorch, TensorFlow, etc.)
+*.pt
+*.pth
+*.ckpt
+*.ckpt.index
+*.ckpt.data-00000-of-00001
+*.pb
+
+## Archivos de scikit-learn
+*.joblib
+*.pkl
+*.pickle
+
+# Logs y archivos temporales
+*.log
+*.tmp
+
+# Archivos propios del sistema operativo
+.DS_Store
+Thumbs.db
