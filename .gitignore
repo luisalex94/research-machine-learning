@@ -35,6 +35,9 @@ env/
 env.bak/
 venv.bak/
 
+# Entornos virtuales adicionales
+venv2/
+
 # Archivos de PyInstaller
 *.manifest
 *.spec
