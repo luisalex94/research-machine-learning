@@ -117,7 +117,7 @@ cython_debug/
 # Archivos y datos de Machine Learning
 
 ## Archivos de datos (ajusta según lo que quieras versionar o no)
-*.csv
+## *.csv
 *.tsv
 *.dat
 *.data
