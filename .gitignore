@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+nlp/results
 
 # Archivos de extensión C (si usas extensiones en C)
 *.so

@@ -1,0 +1,51 @@
+text,intent
+"Hola, ¿cómo estás?",saludo
+Buenos días,saludo
+"Buenas tardes, ¿cómo te va?",saludo
+¡Hola! ¿Todo bien?,saludo
+¿Qué tal? Buenas tardes,saludo
+Quiero mi póliza más reciente,obtener_poliza
+¿Me puedes mostrar mi póliza?,obtener_poliza
+¿Dónde está mi póliza?,obtener_poliza
+Necesito saber cuál es mi póliza actual,obtener_poliza
+Dame los detalles de mi póliza,obtener_poliza
+¿Qué coberturas tengo?,consultar_cobertura
+¿Qué incluye mi seguro?,consultar_cobertura
+¿Mi seguro cubre daños a terceros?,consultar_cobertura
+Quisiera saber las coberturas de mi seguro,consultar_cobertura
+¿Qué protección tengo con este seguro?,consultar_cobertura
+Quiero cancelar mi seguro,cancelar_seguro
+¿Cómo doy de baja mi póliza?,cancelar_seguro
+Necesito dar de baja mi seguro,cancelar_seguro
+¿Qué tengo que hacer para cancelar mi póliza?,cancelar_seguro
+¿Puedo cancelar mi seguro antes de tiempo?,cancelar_seguro
+¿Cómo renuevo mi seguro?,renovar_seguro
+Quiero renovar mi póliza,renovar_seguro
+¿Cuándo se renueva mi seguro?,renovar_seguro
+"Mi póliza está por vencer, ¿cómo la renuevo?",renovar_seguro
+¿Puedo renovar mi seguro de auto ahora?,renovar_seguro
+Quiero cambiar mi dirección,modificar_datos_personales
+Necesito actualizar mi número de teléfono,modificar_datos_personales
+¿Cómo puedo actualizar mis datos?,modificar_datos_personales
+Quiero cambiar la dirección en mi póliza,modificar_datos_personales
+¿Cómo actualizo mi correo electrónico?,modificar_datos_personales
+"Tuve un accidente, ¿qué hago?",informar_accidente
+Quiero reportar un accidente,informar_accidente
+"Acabo de chocar, ¿qué debo hacer?",informar_accidente
+¿Cómo hago un reporte de accidente?,informar_accidente
+"Tuve un siniestro, ¿cómo lo informo?",informar_accidente
+¿Está mi pago registrado?,consultar_estado_pago
+Quiero saber si pagué mi póliza,consultar_estado_pago
+¿Mi pago de seguro ha sido procesado?,consultar_estado_pago
+¿Puedo ver el estado de mi último pago?,consultar_estado_pago
+¿Está al día mi pago de seguro?,consultar_estado_pago
+¿Cuánto cuesta este seguro?,preguntar_precio
+¿Qué precio tiene la póliza?,preguntar_precio
+Quiero saber el precio del seguro de auto,preguntar_precio
+¿Cuánto tengo que pagar por este seguro?,preguntar_precio
+¿Cuál es el costo de mi póliza?,preguntar_precio
+Quiero hacer un reclamo,reclamo
+"Tengo un problema con mi póliza, ¿cómo hago un reclamo?",reclamo
+¿Cómo reclamo el seguro?,reclamo
+"Mi cobertura no me cubrió el accidente, ¿qué hago?",reclamo
+Quiero poner una queja sobre mi seguro,reclamo
