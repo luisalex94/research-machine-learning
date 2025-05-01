@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 nlp/results
-
+big_data_research/data/*
 # Archivos de extensión C (si usas extensiones en C)
 *.so
 
@@ -38,6 +38,7 @@ venv.bak/
 
 # Entornos virtuales adicionales
 venv2/
+venv_big_data/
 
 # Archivos de PyInstaller
 *.manifest
