@@ -4,6 +4,10 @@ __pycache__/
 *$py.class
 nlp/results
 big_data_research/data/*
+
+# Modelos
+nlp/Natural Language Processing with Transformers, Revised Edition/ch_2/models/*
+
 # Archivos de extensión C (si usas extensiones en C)
 *.so
 
